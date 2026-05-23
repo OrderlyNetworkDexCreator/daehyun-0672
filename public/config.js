@@ -30,7 +30,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_URL": "https://dex.orderly.network/daehyun-0672/",
   "VITE_SEO_SITE_LANGUAGE": "ko",
   "VITE_SEO_SITE_LOCALE": "ko_KR",
-  "VITE_SEO_TWITTER_HANDLE": "@dhl1013",
+  "VITE_SEO_TWITTER_HANDLE": "",
   "VITE_SEO_THEME_COLOR": "#000000",
   "VITE_SEO_KEYWORDS": "dex",
   "VITE_AVAILABLE_LANGUAGES": "en",
